@@ -560,6 +560,14 @@ nav.nav-hidden {
   justify-content: center;
 }
 
+.project-thumbnail img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .thumbnail-gradient {
   position: absolute;
   inset: 0;
